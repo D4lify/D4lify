@@ -1,0 +1,3 @@
+- 👋 Hi, I’m D4lify 
+- I'm currently working on a game (that don't have a name yet) and I'm only using my phone!
+- I learned JS about 6 months ago without school or anything so I thought I could use it to make a little game 
